@@ -2,7 +2,9 @@
 
 **项目题目：面向产线视觉质检的云边协同 AI 服务编排系统设计与实现**
 
-整理日期：2026-11-09。文献窗口：2023-11-09—2026-11-09。资料来自本次对话中的 DeepSeek、WorkBuddy 报告，以及 Codex 对出版社、官方项目文档和实际源码的交叉核验。
+整理日期：2026-11-09。文献窗口：2023-11-09—2026-11-09。资料来自本次对话中的 DeepSeek、WorkBuddy 报告，以及 Codex（OpenAI）对出版社、官方项目文档和实际源码的交叉核验。
+
+**综合整理与补充核验：Codex（OpenAI）。** 独立补充项目及各条目的来源归属见 [Codex 补充检索记录](sources/codex-supplement.md)；该署名表示调研整理者，不是论文或开源项目作者。
 
 ## 先看结论
 
@@ -20,7 +22,7 @@
 | 两份 AI 报告的纠错与其余候选处理结果 | [核验与候选清单](docs/04-audit-and-backlog.md) |
 | 最小可行原型、对比实验、验收指标 | [实施与实验计划](docs/05-experiment-plan.md) |
 | 本轮读取 GitHub 文件的路径与 blob SHA | [证据记录](references/github-evidence.json) |
-| DeepSeek / WorkBuddy 原始报告，保留错误供追溯 | [原始资料说明](sources/README.md) |
+| DeepSeek / WorkBuddy 原始报告及 Codex 补充记录 | [资料来源说明](sources/README.md) |
 
 ## 五条路线速览
 
