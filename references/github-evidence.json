@@ -1,0 +1,151 @@
+{
+  "checked_date": "2026-11-09",
+  "method": "GitHub connector fetch_file; file content inspected, no execution or hardware benchmark",
+  "notes": [
+    "blob_sha identifies file content, not a commit SHA",
+    "Failure to find a LICENSE path does not establish absence of all possible license files",
+    "Paper verification and all remaining candidates are described in docs; this is a record of selected GitHub file reads"
+  ],
+  "files": [
+    {
+      "key": "aws",
+      "status": "read",
+      "url": "https://github.com/aws-samples/sm-qai-hub-examples/blob/main/README.md",
+      "blob_sha": "3f9ff7fd4bba59e5a4b574b0675b416ee6fcfdf5",
+      "error": null
+    },
+    {
+      "key": "dda",
+      "status": "read",
+      "url": "https://github.com/awslabs/DefectDetectionApplication/blob/main/docs/multi-runtime-inference.md",
+      "blob_sha": "92cd07997dc87d930ece91e3cf7bc4c16c97aa29",
+      "error": null
+    },
+    {
+      "key": "sedna_joint",
+      "status": "read",
+      "url": "https://github.com/kubeedge/sedna/blob/main/examples/joint_inference/helmet_detection_inference/README.md",
+      "blob_sha": "86862fc35d2e42ad4f3d675ab4cde37178946e91",
+      "error": null
+    },
+    {
+      "key": "sedna_fl",
+      "status": "read",
+      "url": "https://github.com/kubeedge/sedna/blob/main/examples/federated_learning/surface_defect_detection/README.md",
+      "blob_sha": "7fe40a44e69c9fa3d9770f8f5b456684a050cf8d",
+      "error": null
+    },
+    {
+      "key": "pcb",
+      "status": "read",
+      "url": "https://github.com/Dingshichun/PCB-Defect-Detection-System-Based-on-YOLOv8/blob/main/README.md",
+      "blob_sha": "952d731a80f9a816253a4e6ea2331a3258934958",
+      "error": null
+    },
+    {
+      "key": "micro",
+      "status": "read",
+      "url": "https://github.com/yixing166/MicroDETR/blob/main/README.md",
+      "blob_sha": "9d89f84365386fc10ab460031f31f163e9130bc0",
+      "error": null
+    },
+    {
+      "key": "dda_readme",
+      "status": "read",
+      "url": "https://github.com/awslabs/DefectDetectionApplication/blob/main/README.md",
+      "blob_sha": "ce406d397929005bf894feefd1f17081c84f6bdd",
+      "error": null
+    },
+    {
+      "key": "dda_runtime",
+      "status": "read",
+      "url": "https://github.com/awslabs/DefectDetectionApplication/blob/main/src/backend/dda_triton/resources_for_copy/inference_runtimes.py",
+      "blob_sha": "b1ef31607860d020fd2b36becd47474163509cc5",
+      "error": null
+    },
+    {
+      "key": "pcb_runtime",
+      "status": "read",
+      "url": "https://github.com/Dingshichun/PCB-Defect-Detection-System-Based-on-YOLOv8/blob/main/src/deploy/run_jetson_tensorrt.py",
+      "blob_sha": "e7b613a29dc1f29d1e1debf748813b5ad123fa53",
+      "error": null
+    },
+    {
+      "key": "micro_train",
+      "status": "read",
+      "url": "https://github.com/yixing166/MicroDETR/blob/main/train.py",
+      "blob_sha": "e156dae5e18eddc32b7da4870056d56993dc0f7e",
+      "error": null
+    },
+    {
+      "key": "pcb_license",
+      "status": "read",
+      "url": "https://github.com/Dingshichun/PCB-Defect-Detection-System-Based-on-YOLOv8/blob/main/LICENSE",
+      "blob_sha": "14fac913ccf80234b1848540089a3bbcb6e5283d",
+      "error": null
+    },
+    {
+      "key": "sedna_license",
+      "status": "read",
+      "url": "https://github.com/kubeedge/sedna/blob/main/LICENSE",
+      "blob_sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "error": null
+    },
+    {
+      "key": "aws_license",
+      "status": "read",
+      "url": "https://github.com/aws-samples/sm-qai-hub-examples/blob/main/LICENSE",
+      "blob_sha": "09951d9f8743a65d034616e602995a40a56c5cbd",
+      "error": null
+    },
+    {
+      "key": "dda_license",
+      "status": "read",
+      "url": "https://github.com/awslabs/DefectDetectionApplication/blob/main/LICENSE",
+      "blob_sha": "67db8588217f266eb561f75fae738656325deac9",
+      "error": null
+    },
+    {
+      "key": "lucamaf_license",
+      "status": "access_failed",
+      "url": null,
+      "blob_sha": null,
+      "error": "GitHub API error 404: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#get-repository-content\",\"status\":\"404\"}"
+    },
+    {
+      "key": "gd",
+      "status": "read",
+      "url": "https://github.com/haichao67/GD-YOLOv8/blob/main/README.md",
+      "blob_sha": "a970596cb9b93c185e9e42e0efba7e2e8cb1354e",
+      "error": null
+    },
+    {
+      "key": "steel",
+      "status": "read",
+      "url": "https://github.com/YfengJ/steel-defect-detection/blob/main/README.md",
+      "blob_sha": "b64bf13de5ca0fb87e55c76f33459cd5db9fcd80",
+      "error": null
+    },
+    {
+      "key": "sedna_little",
+      "status": "read",
+      "url": "https://github.com/kubeedge/sedna/blob/main/examples/joint_inference/helmet_detection_inference/little_model/little_model.py",
+      "blob_sha": "f4c43fb3ec427b683f67f5a747b79ae48c263cb2",
+      "error": null
+    },
+    {
+      "key": "dda_publish",
+      "status": "read",
+      "url": "https://github.com/awslabs/DefectDetectionApplication/blob/main/edge-cv-portal/backend/functions/greengrass_publish.py",
+      "blob_sha": "37803381f595567b871656c529b65d961ace8b38",
+      "error": null
+    },
+    {
+      "key": "lucamaf_bridge",
+      "status": "read",
+      "url": "https://github.com/lucamaf/edge-defect-detector/blob/main/amq-artemis-federated/README.md",
+      "blob_sha": "7f2d0383ceab32f2e25e70f6de35bb555a0205fd",
+      "error": null
+    }
+  ]
+}
